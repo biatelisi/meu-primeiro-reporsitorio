@@ -1,2 +1,2 @@
 # meu-primeiro-reporsitorio
-Desafio de projeto / Code Girls Santander :kissing_heart:
+Desafio de projeto / Code Girls Santander :hearts::metal:
