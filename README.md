@@ -1,2 +1,2 @@
 # meu-primeiro-reporsitorio
-Desafio DIO
+Desafio de projeto / Code Girls Santander :kissing_heart:
